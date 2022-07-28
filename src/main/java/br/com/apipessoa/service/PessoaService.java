@@ -1,12 +1,12 @@
-package br.com.apipessoa.apipessoa.service;
+package br.com.apipessoa.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import br.com.apipessoa.apipessoa.model.Pessoa;
-import br.com.apipessoa.apipessoa.repository.PessoaRepository;
+import br.com.apipessoa.model.Pessoa;
+import br.com.apipessoa.repository.PessoaRepository;
 
 @Service
 public class PessoaService {
