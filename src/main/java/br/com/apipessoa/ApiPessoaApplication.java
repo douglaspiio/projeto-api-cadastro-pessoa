@@ -1,4 +1,4 @@
-package br.com.apipessoa.apipessoa;
+package br.com.apipessoa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package br.com.apipessoa.apipessoa.controller;
+package br.com.apipessoa.controller;
 
 import java.util.List;
 
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.apipessoa.apipessoa.model.Pessoa;
-import br.com.apipessoa.apipessoa.service.PessoaService;
+import br.com.apipessoa.model.Pessoa;
+import br.com.apipessoa.service.PessoaService;
 
 @RestController
 @RequestMapping("/api")

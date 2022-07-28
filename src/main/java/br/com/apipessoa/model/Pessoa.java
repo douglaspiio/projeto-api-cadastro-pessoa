@@ -1,4 +1,4 @@
-package br.com.apipessoa.apipessoa.model;
+package br.com.apipessoa.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
